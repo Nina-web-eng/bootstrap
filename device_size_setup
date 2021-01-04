@@ -36,6 +36,35 @@
                 inventore maxime, unde laborum. Iste perspiciatis eveniet officia.</div>
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="item">
+                    <img src="https://fakeimg.pl/200x200?random-11" class="img-fluid">
+                    <h3>title</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias asperiores distinctio iure rerum
+                        sequi debitis dolorum eum ipsum beatae et!</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="item">
+                    <img src="https://fakeimg.pl/200x200?random-11" class="img-fluid">
+                    <h3>title</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias asperiores distinctio iure rerum
+                        sequi debitis dolorum eum ipsum beatae et!</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="item">
+                    <img src="https://fakeimg.pl/200x200?random-11" class="img-fluid">
+                    <h3>title</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias asperiores distinctio iure rerum
+                        sequi debitis dolorum eum ipsum beatae et!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
